@@ -21,3 +21,7 @@
 - Библиотеки:
   ```bash
   pip install pyTelegramBotAPI python-dotenv psycopg2-binary
+
+---
+
+## Более подробная информацию по использованию бота находится в инструкции (docs.md)
